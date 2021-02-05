@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Demo Working Project
 
-https://vibhugautam.github.io/Quiz---React/
+https://vibhugautam.github.io/Quiz-App/
 
 ## Available Scripts
 
